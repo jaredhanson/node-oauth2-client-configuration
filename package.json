@@ -1,7 +1,7 @@
 {
   "name": "oauth2-client-configuration",
   "version": "0.0.0",
-  "description": "Fetches",
+  "description": "Fetches OAuth 2.0 client configuration from a well-known location.",
   "author": {
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
