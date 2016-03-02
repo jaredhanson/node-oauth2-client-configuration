@@ -1,6 +1,6 @@
 {
   "name": "oauth2-client-configuration",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fetches OAuth 2.0 client configuration from a well-known location.",
   "author": {
     "name": "Jared Hanson",
